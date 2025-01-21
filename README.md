@@ -34,6 +34,7 @@ No installation required—simply open the project in your IDE and start experim
 - **`Recursion-I/`**: Folder containing the first part of the recursion program, including examples and exercises.
 - **`Recursion-II/`**: Folder containing the second part of the recursion program, further exploring recursion concepts.
 - **`.DS_Store`**: macOS system file (can be ignored).
+- **`README.md`** : Documentation file with project details and instructions.
 
 ## **Usage**
 
