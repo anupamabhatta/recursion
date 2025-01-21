@@ -12,16 +12,20 @@ This repository contains a Java application that demonstrates the concept of rec
 
 ## **Getting Started**
 
-To get started:
+### Prerequisites
+
+- **Java** installed on your system.
+- An IDE like **NetBeans** for running the project.
+
+### Steps to Use
 
 1. Clone or download the repository to your local machine.
 2. Open the project in your preferred IDE (e.g., **NetBeans**).
 3. Explore the folders for examples and exercises:
+
    - **Recursion-I/**: Contains the first part of the program with introductory recursion examples.
    - **Recursion-II/**: Contains the second part, expanding on recursion concepts and exercises.
 4. Compile and run the Java files to see recursion in action.
-
-No installation required—simply open the project in your IDE and start experimenting.
 
 ## **Technologies Used**
 
