@@ -1,5 +1,4 @@
-
-# **Recursion in Java**
+# **Recursion**
 
 ## **Description**
 
